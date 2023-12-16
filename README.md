@@ -22,21 +22,21 @@ Let's see how to do coding in this wonderful programming language:
 ```
 Ultrafuck commands:
 
->/<     Next/Previous BF command
-!		Execute BF command
-~		Null (reset BF command)
-[]		Loop
-{}		Endless Loop
+>/<   Next/Previous BF command
+!     Execute BF command
+~     Null (reset BF command)
+[]    Loop
+{}    Endless Loop
 
 BF commands:
 
-1/2:    Next/Previous memory cell
-3/4:	Increase/Decrease memory cell value
-5:		Write memory cell value into console (as an ASCII character)
-6:		Read memory cell value from keyboard (as an ASCII character)
-7:		Set random memory cell value
-8:		Write memory cell value into console (as number)
-9:		Break (stop program execution)
+1/2:  Next/Previous memory cell
+3/4:  Increase/Decrease memory cell value
+5:    Write memory cell value into console (as an ASCII character)
+6:    Read memory cell value from keyboard (as an ASCII character)
+7:    Set random memory cell value
+8:    Write memory cell value into console (as number)
+9:    Break (stop program execution)
 
 ***
 
